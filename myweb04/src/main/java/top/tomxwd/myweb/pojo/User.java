@@ -44,4 +44,9 @@ public class User {
 	public void setPhone(String phone) {
 		this.phone = phone;
 	}
+	
+	public void testGit() {
+		System.out.println("git");
+	}
+	
 }
