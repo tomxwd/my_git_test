@@ -49,4 +49,8 @@ public class User {
 		System.out.println("git");
 	}
 	
+	public void testGit2() {
+		System.out.println("git2");
+	}	
+	
 }
