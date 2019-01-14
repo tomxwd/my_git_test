@@ -54,6 +54,7 @@ public class User {
 	}	
 	
 	public void testGit3() {
+		int a = 1;
 		int b = 2;
 		System.out.println("git3,分支下写新方法");
 	}
